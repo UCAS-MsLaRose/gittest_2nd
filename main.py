@@ -1,4 +1,5 @@
 # holds user interface, runs the program 
+from creater import charCreator
 
 chars = []
 
